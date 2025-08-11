@@ -1,6 +1,51 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
+# Hi there 👋, I'm Aman Kumar
+
+## 🚀 About Me
+🎓 3rd Year Engineering Student | Data Science Major  
+💻 Passionate about **Data Science, Blockchain, and Generative AI**  
+📍 Based in **Bengaluru, India**  
+📧 Reach me at **varsha61@gmail.com**
+
+---
+
+## 🔧 Technologies & Tools
+- **Languages:** Python, Java, JavaScript, SQL  
+- **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib  
+- **Web:** HTML, CSS, Flask, Node.js  
+- **Others:** Git, Docker, PowerBI, Dialogflow  
+
+---
+
+## 🌟 Projects
+- **Health Emergency Wallet** 💳 – Digital wallet for instant medical payments  
+- **Sports AI Chatbot** 🤖 – Answers sports queries (including F1 & eSports)  
+- **Digital Therapeutic App** 🧠 – Predictive mood tracking & CBT-based tools  
+
+---
+
+## 📊 GitHub Stats
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 📈 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_LINK)  
+
+---
+
+⭐ **Fun Fact:** I love editing reels 🎬 using CapCut, Filmora, and Adobe Premiere Rush.  
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickzaman03&label=Profile%20views&color=0e75b6&style=flat" alt="nickzaman03" /> </p>
 
 <h3 align="left">Connect with me:</h3>
