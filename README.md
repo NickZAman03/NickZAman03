@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-# Hi there 👋, I'm Aman Kumar
+
 
 ## 🚀 About Me
-🎓 3rd Year Engineering Student | Data Science Major  
+🎓 Final Year Engineering Student | Data Science Major  
 💻 Passionate about **Data Science, Blockchain, and Generative AI**  
 📍 Based in **Bengaluru, India**  
-📧 Reach me at **varsha61@gmail.com**
+📧 Reach me at **amanmys04@gmail.com**
 
 ---
 
